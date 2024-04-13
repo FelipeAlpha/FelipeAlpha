@@ -3,7 +3,13 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-rosa-613bb72b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeAlpha)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlpha&show_icons=true&theme=merko)
+<div align="center" >
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=FelipeAlpha1&theme=midnight-purple)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlpha&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlpha&layout=midnight-purple)
+
+</div>
 
 ### Tecnologias que eu uso no meu dia
 
@@ -13,4 +19,5 @@
   <img aligm="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img aligm="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img aligm="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</div>
+</div><br/>
+
