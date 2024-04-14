@@ -9,6 +9,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlpha&show_icons=true&theme=midnight-purple)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlpha&layout=midnight-purple)
 
+![Profile Views](https://komarev.com/ghpvc/?username=FelipeAlpha&style=for-the-badge&color=blueviolet)
+
 </div>
 
 ### Tecnologias que eu uso no meu dia
