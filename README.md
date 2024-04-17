@@ -3,9 +3,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-rosa-613bb72b7/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FelipeAlpha)
 
+---
+
 <div align="center" >
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeAlpha&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
+
+---
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlpha&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlpha&layout=compact&langs_count=16&theme=midnight-purple)
