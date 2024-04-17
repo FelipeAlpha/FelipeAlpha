@@ -1,3 +1,4 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=header"/>
 ### Olá! Eu sou o Felipe Henrique Rosa❤️♠️
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-rosa-613bb72b7/)
