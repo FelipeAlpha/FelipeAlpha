@@ -7,6 +7,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeAlpha&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeAlpha&show_icons=true&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeAlpha&layout=compact&langs_count=16&theme=midnight-purple)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=FelipeAlpha&style=for-the-badge&color=blueviolet)
 
