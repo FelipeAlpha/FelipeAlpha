@@ -22,6 +22,12 @@
 
 </div>
 
+<div align="center" >
+
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/FelipeAlpha?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple) 
+
+</div>
+
 ### Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
@@ -31,6 +37,7 @@
   <img aligm="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img aligm="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=footer"/>
 
