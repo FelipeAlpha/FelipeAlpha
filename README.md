@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=632A7A&size=35&center=true&vCenter=true&width=1000&lines=♥️+Hello,+My+Name+is+Felipe+Henrique+Rosa+♠️;I'+am+16+years+old;I+am+from+Santa+Catarina,+Brazil;I+Studying+Now+Html,Css,And+JavaScript;♥️+Be+Welcome!+:%29+♠️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=632A7A&size=35&center=true&vCenter=true&width=1000&lines=♥️+Hello,+My+Name+is+Felipe+Henrique+Rosa+♠️;I'+am+16+years+old;I+am+from+Santa+Catarina,+Brazil;A+FrontEnd+Developer;I+Studying+Now+Html,Css,And+JavaScript;♥️+Be+Welcome!+:%29+♠️
 )](https://git.io/typing-svg)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-henrique-rosa-613bb72b7/)
