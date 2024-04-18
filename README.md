@@ -31,3 +31,5 @@
   <img aligm="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
 </div><br/>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=footer"/>
+
