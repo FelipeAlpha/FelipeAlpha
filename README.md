@@ -32,20 +32,20 @@
 
 ## 🔨 Languages And Technologys That I Use 🔧
 
-### Languages:
+### Principal Languages:
 
 | HTML | JS | CSS |
 |------|----|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
 
 
-### Tools:
+### My Tools:
 
 | Vscode | GitHub | Git |
 |--------|--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="55" alt="55" width="55" height="55"/>|
 
-### Learning:
+### Now Learning:
 
 | C# | Lua | React | NodeJs |
 |----|-----|---------|--------|
