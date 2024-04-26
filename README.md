@@ -28,16 +28,37 @@
 
 </div>
 
-### Tecnologias que eu uso no meu dia
+<div align="center">
 
-<div style="display: inline_block"><br/>
-  <img aligm="center" alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img aligm="center" alt="Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img aligm="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img aligm="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img aligm="center" alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-</div><br/>
+## 🔨 Languages And Technologys That I Use 🔧
 
+### Languages:
+
+| HTML | JS | CSS |
+|------|----|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|
+
+
+### Tools:
+
+| Vscode | GitHub | Git |
+|--------|--------|-----|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="55" alt="55" width="55" height="55"/>|
+
+### Learning:
+
+| C# | Lua | React | NodeJs |
+|----|-----|---------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="NodeJs" alt="NodeJs" width="55" height="55"/>|
+          
+</div>
+
+<div align="center">
+
+## 🏅 My Trophys And Status 🏆
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=FelipeAlpha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=280137&height=120&section=footer"/>
-
