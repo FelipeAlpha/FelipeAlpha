@@ -55,7 +55,7 @@
 
 <div align="center">
 
-## 🏅 My Trophys And Status 🏆
+## 🏅 My Trophys And Status 🏆a
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=FelipeAlpha&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
