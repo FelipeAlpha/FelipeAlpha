@@ -41,7 +41,7 @@
 
 ### My Tools:
 
-| Vscode | GitHub | Git | RbSt |
+| Vscode | GitHub | Git | RobloxSt |
 |--------|--------|-----|--------------|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="55" height="55"/> |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="55" alt="55" width="55" height="55"/>| <img src=https://static.wikia.nocookie.net/roblox/images/a/a0/Roblox_Studio_Icon_6.svg/revision/latest?cb20230511025706 title="RobloxStudio" alt="RobloxStudio" width="55" height="55"> |
 
