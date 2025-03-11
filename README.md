@@ -10,7 +10,9 @@
 
 <div align="center" >
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FelipeAlpha&theme=midnight-purple&card_width=800)](https://git.io/streak-stats)
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+  <img width=800 src="https://github-readme-streak-stats-eight.vercel.app/?user=FelipeAlpha&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+</a>
 
 ---
 
