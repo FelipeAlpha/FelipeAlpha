@@ -11,7 +11,7 @@
 <div align="center" >
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-  <img width=600 src="https://github-readme-streak-stats-eight.vercel.app/?user=FelipeAlpha&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  <img width=580 src="https://github-readme-streak-stats-eight.vercel.app/?user=FelipeAlpha&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
 </a>
 
 ---
